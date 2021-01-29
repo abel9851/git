@@ -2,4 +2,5 @@ add
 edited in local
 Third
 remote
+local
 one more remote
